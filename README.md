@@ -32,6 +32,7 @@ Below are some preview screens from **KeyInn**, showing the complete hotel booki
 |:---:|:---:|:---:|:---:|
 | ![](swiftuihotelproject/screenshots/login.png) | ![](swiftuihotelproject/screenshots/register.png) | ![](swiftuihotelproject/screenshots/selectHotels.png) | ![](swiftuihotelproject/screenshots/hotelsInfo.png) |
 
-| Book Now | Home | QR Unlock | Profile |
-|:---:|:---:|:---:|:---:|
-| ![](swiftuihotelproject/screenshots/bookNow.png) | ![](swiftuihotelproject/screenshots/home.png) | ![](swiftuihotelproject/screenshots/qrSuccess.png) | ![](swiftuihotelproject/screenshots/profile.png) |
+| Book Now | Home | QR Unlock | QR For Door | Profile | 
+|:---:|:---:|:---:|:---:|:---:|
+| ![](swiftuihotelproject/screenshots/bookNow.png) | ![](swiftuihotelproject/screenshots/home.png) | ![](swiftuihotelproject/screenshots/qrSuccess.png) | ![](swiftuihotelproject/screenshots/qrForDoor.png) | ![](swiftuihotelproject/screenshots/profile.png) |
+
