@@ -17,12 +17,6 @@ KeyInn aims to make hotel stays faster, safer and frictionless by:
 - CodeScanner (QR scanning)  
 - Local/remote API for lock/unlock (sample integration)
 
-  ## 🚀 Quick Start / Installation
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/KeyInn.git
-   cd KeyInn
 
 ## 🖼️ Screenshots
 
